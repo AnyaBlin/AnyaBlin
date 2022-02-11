@@ -38,7 +38,6 @@
  <b> How to reach me:</b> <a href="mailto:ariisutyan@gmail.com">ariisutyan@gmail.com</a></li>
 <br>
 
-
  
 
 
