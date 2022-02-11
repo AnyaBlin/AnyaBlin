@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
+<h1 align="center">  Welcome to my profile </h1>
 <br>
 <div align="center">
 <img src="https://i.yapx.ru/QgoE4.gif">
@@ -42,6 +42,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyaBlin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 <br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaBlin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
  
 
 
