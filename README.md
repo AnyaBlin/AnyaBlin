@@ -2,7 +2,7 @@
 <h1 align="center">  Welcome to my profile </h1>
 <br>
 <div align="center">
-<img src="https://i.yapx.ru/QgoE4.gif">
+<img src="https://s10.gifyu.com/images/cd0ac53c65a93a2ccfabb720e1dcb0fe.gif">
 </div>
 <h2 align="center"> About me </h2>
  <img src="https://i.yapx.ru/QjWCc.gif" align="right" height="220">
@@ -39,10 +39,21 @@
 <br>
 <h2 align="center"> Stats </h2>
 
+<img src="https://s10.gifyu.com/images/armor-magic-power.gif" align="right" height="250">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyaBlin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 <br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaBlin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center"> Also </h2>
+
+<h3> You can check out my graduation project at the link below: </h3>
+
+<img src="https://s10.gifyu.com/images/by-yusuferenelet-anime.gif" align="right" height="250">
+
+<font size="34"> [UI](https://github.com/AnyaBlin/Final_project) </font>
  
+[API](https://github.com/AnyaBlin/API_FinalProject)
 
 
 
