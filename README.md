@@ -37,7 +37,11 @@
 <li> 
  <b> How to reach me:</b> <a href="mailto:ariisutyan@gmail.com">ariisutyan@gmail.com</a></li>
 <br>
+<h2 align="center"> 𝒮𝓉𝒶𝓉𝓈 </h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyaBlin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+<br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaBlin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
