@@ -53,9 +53,9 @@
 
 
 
-<h2> [UI](https://github.com/AnyaBlin/Final_project) </h2>
+[UI](https://github.com/AnyaBlin/Final_project)
  
-<h2> [API](https://github.com/AnyaBlin/API_FinalProject) </h2>
+[API](https://github.com/AnyaBlin/API_FinalProject)
 
 
 
