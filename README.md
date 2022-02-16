@@ -51,9 +51,9 @@
 
 <img src="https://s10.gifyu.com/images/by-yusuferenelet-anime.gif" align="right" height="250">
 
-<font size="34"> [UI](https://github.com/AnyaBlin/Final_project) </font>
+<h2> [UI](https://github.com/AnyaBlin/Final_project) </h2>
  
-[API](https://github.com/AnyaBlin/API_FinalProject)
+<h2> [API](https://github.com/AnyaBlin/API_FinalProject) </h2>
 
 
 
