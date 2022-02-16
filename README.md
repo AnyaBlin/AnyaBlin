@@ -39,7 +39,7 @@
 <br>
 <h2 align="center"> Stats </h2>
 
-<img src="https://s10.gifyu.com/images/armor-magic-power.gif" align="right" height="250">
+<img src="https://s10.gifyu.com/images/armor-magic-power.gif" align="right" height="210">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyaBlin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 <br/> 
